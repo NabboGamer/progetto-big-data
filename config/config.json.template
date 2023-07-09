@@ -1,11 +1,24 @@
 {
-  "path_covid_19_france_vaccinations_age_sexe_dep": "C:\\sviluppo\\Progetto Big Data\\dataset\\covid-19-france-vaccinations-age-sexe-dep.csv",
-  "path_economicref_france_indice_prix_consommation": "C:\\sviluppo\\Progetto Big Data\\dataset\\economicref-france-indice-prix-consommation.csv",
-  "path_elections_france_legislatives_2022_1er_tour_par_bureau_de_vote": "C:\\sviluppo\\Progetto Big Data\\dataset\\elections-france-legislatives-2022-1er-tour-par-bureau-de-vote.csv",
-  "path_elections_france_legislatives_2022_2nd_tour_par_bureau_de_vote": "C:\\sviluppo\\Progetto Big Data\\dataset\\elections-france-legislatives-2022-2nd-tour-par-bureau-de-vote.csv",
-  "path_elections_france_presidentielles_2022_1er_tour_par_bureau_de_vote": "C:\\sviluppo\\Progetto Big Data\\dataset\\elections-france-presidentielles-2022-1er-tour-par-bureau-de-vote.csv",
-  "path_elections_france_presidentielles_2022_2nd_tour_par_bureau_de_vote": "C:\\sviluppo\\Progetto Big Data\\dataset\\elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote.csv",
-  "path_labouref_france_departement_quarter_jobseeker": "C:\\sviluppo\\Progetto Big Data\\dataset\\labouref-france-departement-quarter-jobseeker.csv",
-  "path_prix_des_carburants_j_1_001": "C:\\sviluppo\\Progetto Big Data\\dataset\\prix-des-carburants-j-1-001.csv"
+  "path_covid_19_france_vaccinations_age_sexe_dep": "PATH_TO_DATASETS/covid-19-france-vaccinations-age-sexe-dep.csv",
+  "path_economicref_france_indice_prix_consommation": "PATH_TO_DATASETS/economicref-france-indice-prix-consommation.csv",
+  "path_elections_france_legislatives_2022_1er_tour_par_bureau_de_vote": "PATH_TO_DATASETS/elections-france-legislatives-2022-1er-tour-par-bureau-de-vote.csv",
+  "path_elections_france_legislatives_2022_2nd_tour_par_bureau_de_vote": "PATH_TO_DATASETS/elections-france-legislatives-2022-2nd-tour-par-bureau-de-vote.csv",
+  "path_elections_france_presidentielles_2022_1er_tour_par_bureau_de_vote": "PATH_TO_DATASETS/elections-france-presidentielles-2022-1er-tour-par-bureau-de-vote.csv",
+  "path_elections_france_presidentielles_2022_2nd_tour_par_bureau_de_vote": "PATH_TO_DATASETS/elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote.csv",
+  "path_labouref_france_departement_quarter_jobseeker": "PATH_TO_DATASETS/labouref-france-departement-quarter-jobseeker.csv",
+  "path_prix_des_carburants_j_1_001": "PATH_TO_DATASETS/prix-des-carburants-j-1-001.csv",
+  "path_risultati_elezioni_presidenziali_1_turno": "PATH_TO_DATASETS/risultati_elezioni_presidenziali_1_turno",
+  "path_risultati_elezioni_presidenziali_2_turno": "PATH_TO_DATASETS/risultati_elezioni_presidenziali_2_turno",
+  "path_departements_plus_riches_de_france" : "./dataset/les-departements-les-plus-riches-de-france.csv",
+  "path_inflazione" : "./dataset/inflazione.csv",
+  "path_work_vaccinazioni_covid" : "PATH_TO_DATASETS/worked_vaccinazioni_covid.csv",
+  "path_work_andamento_prezzi_consumo" : "PATH_TO_DATASETS/worked_prezzi_consumo.csv",
+  "path_work_risultati_elezioni_legislative_1_turno" : "PATH_TO_DATASETS/worked_legislative_1_turno.csv",
+  "path_work_risultati_elezioni_legislative_2_turno" : "PATH_TO_DATASETS/worked_legislative_2_turno.csv",
+  "path_work_risultati_elezioni_presidenziali_1_turno" : "PATH_TO_DATASETS/worked_presidenziali_1_turno.csv",
+  "path_work_risultati_elezioni_presidenziali_2_turno" : "PATH_TO_DATASETS/worked_presidenziali_2_turno.csv",
+  "path_work_dati_sulla_disoccupazione" : "PATH_TO_DATASETS/worked_disoccupazione.csv",
+  "path_work_andamento_dei_prezzi_dei_carburanti" : "PATH_TO_DATASETS/worked_prezzi_carburanti.csv",
+  "path_work_reddito_per_dipartimenti" : "PATH_TO_DATASETS/worked_reddito.csv",
+  "path_work_inflazione" : "PATH_TO_DATASETS/worked_inflazione.csv"
 }
-  
