@@ -11,6 +11,7 @@
   "path_risultati_elezioni_presidenziali_2_turno": "PATH_TO_DATASETS/risultati_elezioni_presidenziali_2_turno",
   "path_departements_plus_riches_de_france" : "./other_dataset/les-departements-les-plus-riches-de-france.csv",
   "path_inflazione" : "./other_dataset/inflazione.csv",
+  "path_popolazione" : "./other_dataset/popolazione.csv"
   "path_work_vaccinazioni_covid" : "PATH_TO_DATASETS/worked_vaccinazioni_covid.csv",
   "path_work_andamento_prezzi_consumo" : "PATH_TO_DATASETS/worked_prezzi_consumo.csv",
   "path_work_risultati_elezioni_legislative_1_turno" : "PATH_TO_DATASETS/worked_legislative_1_turno.csv",
@@ -21,4 +22,5 @@
   "path_work_andamento_dei_prezzi_dei_carburanti" : "PATH_TO_DATASETS/worked_prezzi_carburanti.csv",
   "path_work_reddito_per_dipartimenti" : "PATH_TO_DATASETS/worked_reddito.csv",
   "path_work_inflazione" : "PATH_TO_DATASETS/worked_inflazione.csv"
+  "path_work_popolazione" : "PATH_TO_DATASETS/worked_popolazione.csv"
 }
